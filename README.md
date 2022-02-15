@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/-Linux-informational?style=flat&logo=linux&logoColor=a599e9&color=2D2B55" />
   <img src="https://img.shields.io/badge/-PhpStorm-informational?style=flat&logo=phpstorm&logoColor=a599e9&color=2D2B55" />
   <img src="https://img.shields.io/badge/-VS_Code-informational?style=flat&logo=visualstudiocode&logoColor=a599e9&color=2D2B55" />
-  <img src="https://img.shields.io/badge/-Docker/Nitro-informational?style=flat&logo=docker&logoColor=a599e9&color=2D2B55" />
+  <img src="https://img.shields.io/badge/-Docker/Lando-informational?style=flat&logo=docker&logoColor=a599e9&color=2D2B55" />
   <br>
   <b>Languages/Frameworks:</b>
   <br>
