@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/-VS_Code-informational?style=flat&logo=visualstudiocode&logoColor=a599e9&color=2D2B55" />
   <img src="https://img.shields.io/badge/-Docker-informational?style=flat&logo=docker&logoColor=a599e9&color=2D2B55" />
   <img src="https://img.shields.io/badge/-DDEV/Orbstack-informational?style=flat&logo=docker&logoColor=a599e9&color=2D2B55" />
-  <br>
+  <br><br>
   <b>Web Languages/Frameworks:</b>
   <br>
   <img src="https://img.shields.io/badge/-Craft_cms-informational?style=flat&logo=craftcms&logoColor=a599e9&color=2D2B55" />
@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/-CSS/SCSS-informational?style=flat&logo=css3&logoColor=a599e9&color=2D2B55" />
   <img src="https://img.shields.io/badge/-Tailwind-informational?style=flat&logo=tailwindcss&logoColor=a599e9&color=2D2B55" />
   <img src="https://img.shields.io/badge/-Javascript/Alpine-informational?style=flat&logo=javascript&logoColor=a599e9&color=2D2B55" />
-  <br>
+  <br><br>
   <b>Gamedev:</b>
   <br>
   <img src="https://img.shields.io/badge/-godot-informational?style=flat&logo=godot-engine&logoColor=a599e9&color=2D2B55" />
