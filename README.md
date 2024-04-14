@@ -7,6 +7,7 @@
   <br>
   <img src="https://img.shields.io/badge/-MacOS-informational?style=flat&logo=apple&logoColor=a599e9&color=2D2B55" />
   <img src="https://img.shields.io/badge/-PhpStorm-informational?style=flat&logo=phpstorm&logoColor=a599e9&color=2D2B55" />
+  <img src="https://img.shields.io/badge/-WebStorm-informational?style=flat&logo=webstorm&logoColor=a599e9&color=2D2B55" />
   <img src="https://img.shields.io/badge/-VS_Code-informational?style=flat&logo=visualstudiocode&logoColor=a599e9&color=2D2B55" />
   <img src="https://img.shields.io/badge/-Docker/Orbstack-informational?style=flat&logo=docker&logoColor=a599e9&color=2D2B55" />
   <img src="https://img.shields.io/badge/-DDEV-informational?style=flat&logo=docker&logoColor=a599e9&color=2D2B55" />
@@ -21,8 +22,7 @@
   <br><br>
   <b>Gamedev:</b>
   <br>
-  <img src="https://img.shields.io/badge/-godot-informational?style=flat&logo=godot-engine&logoColor=a599e9&color=2D2B55" />
-  <img src="https://img.shields.io/badge/-blender-informational?style=flat&logo=blender&logoColor=a599e9&color=2D2B55" />
+  <img src="https://img.shields.io/badge/-Phaser-informational?style=flat&logo=phaser&logoColor=a599e9&color=2D2B55" />
   <img src="https://img.shields.io/badge/-gimp-informational?style=flat&logo=gimp&logoColor=a599e9&color=2D2B55" />
   <img src="https://img.shields.io/badge/-Pixelorama-informational?style=flat&logo=pixelorama&logoColor=a599e9&color=2D2B55" />
   <img src="https://img.shields.io/badge/-LMMS-informational?style=flat&logo=lmms&logoColor=a599e9&color=2D2B55" />
