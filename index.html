@@ -22,7 +22,7 @@
         }
 
         h1 {
-        
+
             font-size: 3rem;
             margin: 0;
             color: #f95959;
@@ -47,28 +47,28 @@
     </style>
 </head>
 <body>
-    <div>
-        <h1>Coming Soon</h1>
-        <p id="randomSentence"></p>
-    </div>
+<div>
+    <h1>Coming Soon</h1>
+    <p id="randomSentence"></p>
+</div>
 
-    <script>
-        const sentences = [
-            "I'm working on it, slowly...",
-            "The art of productive procrastination.",
-            "I'm on a break that never ends.",
-            "Taking procrastination to a whole new level.",
-            "Tomorrow, I promise to start... maybe.",
-            "I've mastered the art of not doing much at all.",
-            "I'm on the road to success, just taking the scenic route.",
-            "The key to productivity is a well-timed coffee break.",
-            "I'll get to work right after this episode... I promise.",
-            "Just five more minutes... and then another five..."
-        ];
+<script>
+    const sentences = [
+        "I'm working on it, slowly...",
+        "The art of productive procrastination.",
+        "I'm on a break that never ends.",
+        "Taking procrastination to a whole new level.",
+        "Tomorrow, I promise to start... maybe.",
+        "I've mastered the art of not doing much at all.",
+        "I'm on the road to success, just taking the scenic route.",
+        "The key to productivity is a well-timed coffee break.",
+        "I'll get to work right after this episode... I promise.",
+        "Just five more minutes... and then another five..."
+    ];
 
-        const randomIndex = Math.floor(Math.random() * sentences.length);
-        const randomSentence = sentences[randomIndex];
-        document.getElementById("randomSentence").textContent = randomSentence;
-    </script>
+    const randomIndex = Math.floor(Math.random() * sentences.length);
+    const randomSentence = sentences[randomIndex];
+    document.getElementById("randomSentence").textContent = randomSentence;
+</script>
 </body>
 </html>
