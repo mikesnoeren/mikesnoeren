@@ -19,6 +19,7 @@
   <img src="https://img.shields.io/badge/-CSS/SCSS-informational?style=flat&logo=css3&logoColor=a599e9&color=2D2B55" />
   <img src="https://img.shields.io/badge/-Tailwind-informational?style=flat&logo=tailwindcss&logoColor=a599e9&color=2D2B55" />
   <img src="https://img.shields.io/badge/-Javascript/Alpine-informational?style=flat&logo=javascript&logoColor=a599e9&color=2D2B55" />
+  <img src="https://img.shields.io/badge/-Astro-informational?style=flat&logo=astro&logoColor=a599e9&color=2D2B55" />
   <br><br>
   <b>Gamedev:</b>
   <br>
