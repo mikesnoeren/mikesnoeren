@@ -5,10 +5,8 @@
   <br>
   <b>OS/Tools:</b>
   <br>
-  [Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
   <img src="https://img.shields.io/badge/-MacOS-informational?style=flat&logo=apple&logoColor=a599e9&color=2D2B55" />
   <img src="https://img.shields.io/badge/-PhpStorm-informational?style=flat&logo=phpstorm&logoColor=a599e9&color=2D2B55" />
-  <img src="https://img.shields.io/badge/-WebStorm-informational?style=flat&logo=webstorm&logoColor=a599e9&color=2D2B55" />
   <img src="https://img.shields.io/badge/-VS_Code-informational?style=flat&logo=visualstudiocode&logoColor=a599e9&color=2D2B55" />
   <img src="https://img.shields.io/badge/-Docker/Orbstack-informational?style=flat&logo=docker&logoColor=a599e9&color=2D2B55" />
   <img src="https://img.shields.io/badge/-DDEV-informational?style=flat&logo=docker&logoColor=a599e9&color=2D2B55" />
